@@ -43,6 +43,11 @@ Refer to the tutorials given in the following link which will help you :
     - The testing set must contain two images of each person.
     - The training set must contain the rest of the five images of the persons.
 - Number the images of the testing and the training set serially .
+- else you can use the following database
+    - train set
+    https://drive.google.com/file/d/0B95dRrWoLj1JeDNKVkVQV1VocEQ2QktUNS1VeTdRc1BiaUJB/view?usp=sharing
+    -test set
+     https://drive.google.com/file/d/0B95dRrWoLj1JRFNzYl9IdWhnS05XRDhUUmI1aHRCTEwteTdr/view?usp=sharing
 
 
 ## EXECUTION
